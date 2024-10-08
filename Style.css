@@ -1,0 +1,11 @@
+body {
+    background: pink;
+    color:antiquewhite;
+}
+
+#headshot {
+    width: 10rem; 
+    margin: 20 rem 10 rem;
+    border-width: 10px;
+    border-color: white;
+}
